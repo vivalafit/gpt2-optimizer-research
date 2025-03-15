@@ -1,0 +1,19 @@
+У цьому варіанті використовується комбінована втрата, 
+де 0.5% сигналу (α = 0.005) надходить від teacher через KL-дивергенцію (з температурою 1.2), 
+а решта 99.5% — від традиційного cross-entropy loss із label smoothing (0.1).
+
+Student Model Perplexity: 2.67
+
+Average CPU Usage: 31.30%
+Average Memory Usage: 940.32 MB
+
+🔹 **Text Generation Examples:**
+
+**Prompt:** The software must be able to
+**Generated:** The software must be able to to to to to to to to to to to
+
+**Prompt:** User authentication must include
+**Generated:** User authentication must include must must must must must must must must must must must must must must must must must must must must must must must must must must must must must must must must must must must must must must must must must must must must must must
+
+**Prompt:** The system must provide real-time
+**Generated:** The system must provide real-timetimetimetimetimetimetimetimetimetimetimetime

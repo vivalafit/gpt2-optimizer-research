@@ -3,3 +3,4 @@ datasets
 torch
 accelerate
 optimum
+psutil

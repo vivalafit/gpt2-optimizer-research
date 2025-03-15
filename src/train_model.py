@@ -59,6 +59,7 @@ def train_model():
     Головна функція для тренування моделі GPT-2.
     """
     # 1️⃣ Завантаження попередньо навченої моделі GPT-2
+    # пізніше ми займемось навчанням student моделі, після оптимізацій
     model_name = "gpt2"
     tokenizer = GPT2Tokenizer.from_pretrained(model_name)
 

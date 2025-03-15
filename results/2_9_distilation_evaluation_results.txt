@@ -1,0 +1,15 @@
+Student Model Perplexity: 3.95
+
+Average CPU Usage: 26.60%
+Average Memory Usage: 939.12 MB
+
+🔹 **Text Generation Examples:**
+
+**Prompt:** The software must be able to
+**Generated:** The software must be able to to to to to to to to to to to to to to to to to to to
+
+**Prompt:** User authentication must include
+**Generated:** User authentication must include the the the the the the the the the conditions conditions conditions conditions conditions conditions conditions conditions conditions conditions conditions
+
+**Prompt:** The system must provide real-time
+**Generated:** The system must provide real-timetimetimetimetimetimetimetimetimetimetimetimetimetimetimetimetimetimetimetimetimetimetimetimetimetimetimetimetime

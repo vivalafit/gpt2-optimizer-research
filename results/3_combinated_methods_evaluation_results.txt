@@ -1,0 +1,21 @@
+Student Model Perplexity: 1.03
+Inference Speed (sec/gen): 0.0306
+Model Size (MB): 115.74
+Avg CPU Usage (%): 22.00
+Avg Memory Usage (MB): 1135.25
+
+
+Prompt: The software must be able to
+1. The software must be able to 10,000 transactions per second.
+2. The software must be able to 10,000 transactions per second.
+3. The software must be able to 10,000 transactions per second.
+
+Prompt: User authentication must include
+1. User authentication must include real-time notifications.
+2. User authentication must include up to 10,000 transactions per second.
+3. User authentication must include user credentials before granting access.
+
+Prompt: The system must provide real-time
+1. The system must provide real-time notifications.
+2. The system must provide real-time notifications.
+3. The system must provide real-time notifications.
